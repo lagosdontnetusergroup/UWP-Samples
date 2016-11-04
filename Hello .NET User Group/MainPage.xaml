@@ -10,8 +10,22 @@
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <StackPanel VerticalAlignment="Center">
             <TextBlock Style="{StaticResource HeaderTextBlockStyle}" Text="Hello .NET Devs" Margin="4,0,0,0" Foreground="Maroon"/>
-            <Rectangle Height="2" Fill="Maroon"/>
-            <TextBlock Style="{StaticResource SubheaderTextBlockStyle}" Text="UWP is here" Margin="4,0,0,0"/>
+            <Rectangle Height="2" Fill="Maroon" Margin="4,0,0,0"/>
+            <StackPanel Margin="4,4,0,0" Background="Maroon">
+            <TextBlock Style="{StaticResource SubheaderTextBlockStyle}" Text="UWP is here" Margin="4,0,0,0" Foreground="White"/>
+                <StackPanel Orientation="Horizontal">
+                    <SymbolIcon Symbol="Message" Margin="4" Foreground="White"/>
+                    <TextBlock Text="Discuss" Margin="4" Foreground="White"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                <SymbolIcon Symbol="People" Margin="4" Foreground="White"/>
+                <TextBlock Text="Collaborate" Margin="4" Foreground="White"/>
+            </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <SymbolIcon Symbol="NewWindow" Margin="4" Foreground="White"/>
+                    <TextBlock Text="Connect" Margin="4" Foreground="White"/>
+                </StackPanel>
+            </StackPanel>
         </StackPanel>
     </Grid>
 </Page>
