@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello .NET User Group", "Hello .NET User Group\Hello .NET User Group.csproj", "{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tip Calculator", "Tip Calculator\Tip Calculator.csproj", "{DD173057-CEA7-4D52-8590-5FEBD5659934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Debug|ARM.ActiveCfg = Debug|ARM
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Debug|ARM.Build.0 = Debug|ARM
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Debug|ARM.Deploy.0 = Debug|ARM
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Debug|x64.ActiveCfg = Debug|x64
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Debug|x64.Build.0 = Debug|x64
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Debug|x64.Deploy.0 = Debug|x64
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Debug|x86.ActiveCfg = Debug|x86
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Debug|x86.Build.0 = Debug|x86
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Debug|x86.Deploy.0 = Debug|x86
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Release|ARM.ActiveCfg = Release|ARM
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Release|ARM.Build.0 = Release|ARM
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Release|ARM.Deploy.0 = Release|ARM
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Release|x64.ActiveCfg = Release|x64
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Release|x64.Build.0 = Release|x64
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Release|x64.Deploy.0 = Release|x64
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Release|x86.ActiveCfg = Release|x86
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Release|x86.Build.0 = Release|x86
+		{10DB6DF3-1B8C-443A-8B36-1D1A434D6CE4}.Release|x86.Deploy.0 = Release|x86
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Debug|ARM.Build.0 = Debug|ARM
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Debug|ARM.Deploy.0 = Debug|ARM
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Debug|x64.ActiveCfg = Debug|x64
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Debug|x64.Build.0 = Debug|x64
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Debug|x64.Deploy.0 = Debug|x64
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Debug|x86.ActiveCfg = Debug|x86
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Debug|x86.Build.0 = Debug|x86
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Debug|x86.Deploy.0 = Debug|x86
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Release|ARM.ActiveCfg = Release|ARM
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Release|ARM.Build.0 = Release|ARM
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Release|ARM.Deploy.0 = Release|ARM
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Release|x64.ActiveCfg = Release|x64
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Release|x64.Build.0 = Release|x64
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Release|x64.Deploy.0 = Release|x64
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Release|x86.ActiveCfg = Release|x86
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Release|x86.Build.0 = Release|x86
+		{DD173057-CEA7-4D52-8590-5FEBD5659934}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
